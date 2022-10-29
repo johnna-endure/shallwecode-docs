@@ -1,1 +1,3 @@
-# Shall we code 문서 저장소
+# Shall we code 워크스페이스
+
+## 문서 저장 및 이슈 관리를 위한 장소입니다.
